@@ -16,7 +16,7 @@ int main() {
         cin.ignore(numeric_limits<streamsize>::max(), '\n'); // Descarta entrada incorrecta
     }
 
-    cout << "El número ingresado es: " << numero << endl;
+    cout << "El número ingresado es: " << numero << endl;hjghj
 
     return 0; // Indica que el programa terminó correctamente
 }
